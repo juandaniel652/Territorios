@@ -1,0 +1,5 @@
+Librerias necesarias
+
+CustomTkinter
+Sqlite3
+Pandas
